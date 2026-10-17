@@ -1,0 +1,3 @@
+# files or folders not pushed to github or deployed  publicaly;
+node_modules/
+.env
